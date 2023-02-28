@@ -582,6 +582,7 @@ insert into Donor_Data2 (id, donation_frequency, university, car, second_languag
 insert into Donor_Data2 (id, donation_frequency, university, car, second_language, favourite_colour, movie_genre) values (573, 'Weekly', 'Serjeantson', 'BMW', 'Somali', 'Fuscia', 'Action|Animation|Fantasy');
 insert into Donor_Data2 (id, donation_frequency, university, car, second_language, favourite_colour, movie_genre) values (574, 'Weekly', 'Coyish', 'GMC', 'Tajik', 'Fuscia', 'Horror');
 insert into Donor_Data2 (id, donation_frequency, university, car, second_language, favourite_colour, movie_genre) values (575, 'Once', 'Burnage', 'Pontiac', null, 'Violet', 'Drama');
+
 insert into Donor_Data2 (id, donation_frequency, university, car, second_language, favourite_colour, movie_genre) values (576, 'Once', 'Crippill', 'Mazda', null, 'Mauv', 'Drama|War');
 insert into Donor_Data2 (id, donation_frequency, university, car, second_language, favourite_colour, movie_genre) values (577, 'Once', 'Carillo', 'GMC', 'Arabic', 'Teal', 'Crime|Drama');
 insert into Donor_Data2 (id, donation_frequency, university, car, second_language, favourite_colour, movie_genre) values (578, 'Yearly', 'Crystal', 'Ford', null, 'Khaki', 'Drama');
